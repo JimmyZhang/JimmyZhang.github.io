@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[测试标签]]></title>
+    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE%2F</url>
+    <content type="text"><![CDATA[对不起，内部测试中！！！ #####如果列表要放代码区块的话，该区块就需要缩进两次，也就是 8 个空格或是 2 个制表符： 一列表项包含一个列表区块： &lt;代码写在这&gt; ###代码区块 #####要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入： 这是一个普通段落： 这是一个代码区块。 #####这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除（预览效果），例如： Here is an example of AppleScript: tell application &quot;Foo&quot; beep end tell 一个代码区块会一直持续到没有缩进的那一行（或是文件结尾）。 #####在代码区块里面， &amp; 、 &lt; 和 &gt; 会自动转成 HTML 实体，这样的方式让你非常容易使用 Markdown 插入范例用的 HTML 原始码，只需要复制贴上，再加上缩进就可以了，剩下的 Markdown 都会帮你处理，例如： &copy; 2004 Foo Corporation 代码区块中，一般的 Markdown 语法不会被转换，像是星号便只是星号，这表示你可以很容易地以 Markdown 语法撰写 Markdown 语法相关的文件。 ###分隔线 你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：]]></content>
+      <tags>
+        <tag>TestingTags</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[测试分类]]></title>
+    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB%2F</url>
+    <content type="text"><![CDATA[不好意思，现在正在测试阶段！！！ #####你也可以在一个项目内放上多个段落，只要在它前面缩排 4 个空白或 1 个 tab 。 A list item. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 Another item in the list. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 #####如果要在列表项目内放进引用，那 &gt; 就需要缩进： A list item with a blockquote: 这是第一区块在这个条目中的，与上一行在同一段。 另起一段，先空一行再tab缩进，看右边预览效果。]]></content>
+      <categories>
+        <category>TestingCategories</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[您好]]></title>
+    <url>%2F2017%2F12%2F16%2F%E6%82%A8%E5%A5%BD%2F</url>
+    <content type="text"><![CDATA[Markdown 支持两种标题的语法，Setext 和 atx 形式。Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题），Atx 形式在行首插入 1 到 6 个 # ，对应到标题 1 到 6 阶。 #Markdown 语法: A First Level HeaderA Second Level HeaderNow is the time for all good men to come to the aid of their country. This is just a regular paragraph. The quick brown fox jumped over the lazydog’s back. Header 3 This is a blockquote. This is the second paragraph in the blockquote. This is an H2 in a blockquote ###修辞和强调 Markdown 使用星号和底线来标记需要强调的区段。 Markdown 语法: Use two asterisks for strong emphasis. Or, if you prefer, use two underscores instead. ###列表 #####无序列表使用星号、加号和减号来做为列表的项目标记，这些符号是都可以使用的，使用星号： Candy. Gum. Booze. 加号： Candy. Gum. Booze. 和减号 Candy. Gum. Booze.]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F12%2F15%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
