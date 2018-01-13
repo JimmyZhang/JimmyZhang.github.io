@@ -17,7 +17,7 @@
   <entry>
     <title><![CDATA[测试分类]]></title>
     <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB%2F</url>
-    <content type="text"><![CDATA[不好意思，现在正在测试阶段！！！ 你也可以在一个项目内放上多个段落，只要在它前面缩排 4 个空白或 1 个 tab 。 A list item. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 Another item in the list. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 #####如果要在列表项目内放进引用，那 &gt; 就需要缩进： A list item with a blockquote: 这是第一区块在这个条目中的，与上一行在同一段。 另起一段，先空一行再tab缩进，看右边预览效果。]]></content>
+    <content type="text"><![CDATA[不好意思，现在正在测试阶段！！！ 你也可以在一个项目内放上多个段落，只要在它前面缩排 4 个空白或 1 个 tab 。 A list item. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 Another item in the list. 这是第一段，先空一行再tab缩进，看右边预览效果。 这是第二段，同样空一行tab缩进，看右边预览效果。 如果要在列表项目内放进引用，那 &gt; 就需要缩进： A list item with a blockquote: 这是第一区块在这个条目中的，与上一行在同一段。 另起一段，先空一行再tab缩进，看右边预览效果。]]></content>
       <categories>
         <category>TestingCategories</category>
       </categories>
