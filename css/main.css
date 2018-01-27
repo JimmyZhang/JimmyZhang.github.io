@@ -1196,7 +1196,7 @@ pre .javascript .function {
   display: block;
   font-size: 13px;
   line-height: inherit;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid transparent;
   transition-property: border-color;
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
@@ -1947,7 +1947,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #24745c;
+  background: #4f1798;
 }
 .links-of-blogroll {
   font-size: 13px;
