@@ -1122,14 +1122,14 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 52px;
+  font-size: 36px;
   font-weight: normal;
   font-family: 'Niconne', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
-  font-size: 20px;
-  color: #000;
+  font-size: 16px;
+  color: grey-dark;
 }
 .use-motion .brand {
   opacity: 0;
@@ -1947,7 +1947,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c7d177;
+  background: #77ad77;
 }
 .links-of-blogroll {
   font-size: 13px;
