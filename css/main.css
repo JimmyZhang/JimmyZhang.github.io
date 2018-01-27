@@ -284,8 +284,8 @@ a {
   word-wrap: break-word;
 }
 a:hover {
-  color: #222;
-  border-bottom-color: #222;
+  color: #495a89;
+  border-bottom-color: #495a89;
 }
 blockquote {
   margin: 0;
@@ -321,7 +321,7 @@ dd {
   padding: 0;
 }
 kbd {
-  border: 1px solid #ccc;
+  border: 1px solid #fc6423;
   border-radius: 0.2em;
   box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1);
   background-color: #f9f9f9;
@@ -437,6 +437,7 @@ td {
 html,
 body {
   height: 100%;
+  background: #f0f0f0;
 }
 .container {
   position: relative;
@@ -687,14 +688,14 @@ pre .javascript .function {
 .page-post-detail .post-type-quote blockquote::before {
   top: -20px;
   background-image: url("../images/quote-l.svg");
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #fc6423;
 }
 .blockquote-center::after,
 .page-home .post-type-quote blockquote::after,
 .page-post-detail .post-type-quote blockquote::after {
   bottom: -20px;
   background-image: url("../images/quote-r.svg");
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #fc6423;
   background-position: 100% 8px;
 }
 .blockquote-center p,
@@ -941,8 +942,8 @@ pre .javascript .function {
   padding: 0 20px;
   font-size: 14px;
   color: #fff;
-  background: #222;
-  border: 2px solid #222;
+  background: #495a89;
+  border: 2px solid #495a89;
   text-decoration: none;
   border-radius: 0;
   transition-property: background-color;
@@ -952,8 +953,8 @@ pre .javascript .function {
 }
 .btn:hover,
 .post-button .btn:hover {
-  border-color: #222;
-  color: #222;
+  border-color: #495a89;
+  color: #495a89;
   background: #fff;
 }
 .btn-bar {
@@ -1004,7 +1005,7 @@ pre .javascript .function {
 .pagination .prev:hover,
 .pagination .next:hover,
 .pagination .page-number:hover {
-  border-top-color: #222;
+  border-top-color: #495a89;
 }
 .pagination .space {
   padding: 0;
@@ -1018,8 +1019,8 @@ pre .javascript .function {
 }
 .pagination .page-number.current {
   color: #fff;
-  background: #ccc;
-  border-top-color: #ccc;
+  background: #fc6423;
+  border-top-color: #fc6423;
 }
 @media (max-width: 767px) {
   .pagination {
@@ -1036,7 +1037,7 @@ pre .javascript .function {
   .pagination .prev:hover,
   .pagination .next:hover,
   .pagination .page-number:hover {
-    border-bottom-color: #222;
+    border-bottom-color: #495a89;
   }
 }
 .comments {
@@ -1057,7 +1058,7 @@ pre .javascript .function {
   z-index: 1050;
   padding: 0 6px;
   width: 24px;
-  background: #222;
+  background: #495a89;
   font-size: 12px;
   opacity: 1;
   color: #fff;
@@ -1090,7 +1091,7 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #222;
+  background: #495a89;
 }
 .site-meta {
   margin: 0;
@@ -1106,7 +1107,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 40px;
   color: #fff;
-  background: #222;
+  background: #495a89;
   border-bottom: none;
 }
 .brand:hover {
@@ -1203,7 +1204,7 @@ pre .javascript .function {
   transition-delay: 0s;
 }
 .menu .menu-item a:hover {
-  border-bottom-color: #222;
+  border-bottom-color: #495a89;
 }
 .menu .menu-item .fa {
   margin-right: 5px;
@@ -1297,7 +1298,7 @@ pre .javascript .function {
 .posts-expand .post-body h6 .header-anchor {
   float: right;
   margin-left: 10px;
-  color: #ccc;
+  color: #fc6423;
   border-bottom-style: none;
   visibility: hidden;
 }
@@ -1392,7 +1393,7 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   transition-property: border;
-  border-bottom: 1px dashed #ccc;
+  border-bottom: 1px dashed #fc6423;
 }
 .posts-collapse .post-header::before {
   content: " ";
@@ -1414,7 +1415,7 @@ pre .javascript .function {
   border-bottom-color: #666;
 }
 .posts-collapse .post-header:hover::before {
-  background: #222;
+  background: #495a89;
 }
 .posts-collapse .post-meta {
   position: absolute;
@@ -1543,7 +1544,7 @@ pre .javascript .function {
 .post-button .btn {
   color: #fff;
   font-size: 14px;
-  background: #222;
+  background: #495a89;
   border-radius: 0;
   line-height: 2;
   margin: 0 4px 8px 4px;
@@ -1586,7 +1587,7 @@ pre .javascript .function {
   border-bottom: none;
 }
 .post-nav-item a:hover {
-  color: #222;
+  color: #495a89;
   border-bottom: none;
 }
 .post-nav-item a:active {
@@ -1616,7 +1617,7 @@ pre .javascript .function {
   margin: 80px auto 60px;
   width: 8%;
   height: 1px;
-  background: #ccc;
+  background: #fc6423;
   text-align: center;
 }
 .post:last-child .post-eof.post-eof.post-eof {
@@ -1791,7 +1792,7 @@ pre .javascript .function {
   width: 0;
   z-index: 1040;
   box-shadow: inset 0 2px 6px #000;
-  background: #222;
+  background: #495a89;
   -webkit-transform: translateZ(0);
 }
 .sidebar a {
@@ -1831,7 +1832,7 @@ pre .javascript .function {
   width: 14px;
   height: 14px;
   padding: 5px;
-  background: #222;
+  background: #495a89;
   line-height: 0;
   z-index: 1050;
   cursor: pointer;
@@ -1947,7 +1948,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e51fff;
+  background: #d90bd4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2035,8 +2036,8 @@ pre .javascript .function {
   border-bottom-color: #555;
 }
 .post-toc ol a:hover {
-  color: #ccc;
-  border-bottom-color: #ccc;
+  color: #fc6423;
+  border-bottom-color: #fc6423;
 }
 .post-toc .nav-item {
   overflow: hidden;
@@ -2729,7 +2730,7 @@ embed {
 .custom-logo .site-title {
   margin: 10px auto 0;
   font-size: 24px;
-  color: #222;
+  color: #495a89;
 }
 .custom-logo .site-title a {
   border: none;
