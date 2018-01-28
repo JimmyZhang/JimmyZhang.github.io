@@ -1105,12 +1105,12 @@ pre .javascript .function {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #fff;
+  color: #f00;
   background: transparent;
   border-bottom: none;
 }
 .brand:hover {
-  color: #f00;
+  color: #fff;
 }
 .logo {
   display: inline-block;
@@ -1947,7 +1947,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #de8aff;
+  background: #ff21ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2792,5 +2792,5 @@ embed {
   }
 }
 #footer {
-  background: Snow;
+  background: WhiteSmoke;
 }
