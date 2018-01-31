@@ -1947,7 +1947,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9c0aa4;
+  background: #5e7121;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2786,7 +2786,7 @@ embed {
 }
 @media screen and (min-width: 1200px) {
   #header {
-    background-image: url("/images/header.jpg");
+    background-image: url("https://ws1.sinaimg.cn/large/694830ebgy1fh3pyd05klj21kw0f2dy2.jpg");
     background-repeat: no-repeat;
     background-size: conver;
   }
